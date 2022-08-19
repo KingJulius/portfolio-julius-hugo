@@ -16,18 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
+  - description: Python, Java, C, JavaScript, TypeScript, SQL
+    icon: fa-solid fa-code
+    icon_pack: fa
+    name: Progrmamming Languages
+  - description: React, NodeJS, Next.js, Django, Flask, Express, HTML, CSS, MaterialUI
+    icon: fa-brands fa-react
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: Web Development
+  - description: Scikit-Learn, TensorFlow, Keras, Pytorch
+    icon: fa-solid fa-robot
+    icon_pack: fa
+    name: Machine Learning Libraries
+  - description: Version control, Git, Amazon Web Services(AWS), Azure DevOps, Docker
+    icon: fa-solid fa-screwdriver-wrench
+    icon_pack: fa
+    name: Technologies
+  - description: MongoDB, MySQL
+    icon: fa-solid fa-database
+    icon_pack: fa
+    name: Databases
+  - description: Linux, Windows
+    icon: fa-solid fa-desktop
+    icon_pack: fa
+    name: Operating Systems
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
